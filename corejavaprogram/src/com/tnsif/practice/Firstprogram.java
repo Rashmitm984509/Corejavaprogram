@@ -1,7 +1,7 @@
 package com.tnsif.practice;
 
 public class Firstprogram {
-  public   int  a=9;// data member
+  public   int  a=9;      // data member
     private float g=9.6f;
     protected int s=5;
   

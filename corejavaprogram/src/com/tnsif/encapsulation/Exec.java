@@ -10,5 +10,7 @@ public static void main(String[] args) {
 	e.a=24;
 	
 	e.show();
+	boolean s=e instanceof EncapsulationDemo;
+	System.out.println(s);
 }
 }
