@@ -9,4 +9,7 @@ public class Father {
 	void learn() {
 		System.out.println("java");
 	}
+	void main() {
+		System.out.println("ghh");
+	}
 }
