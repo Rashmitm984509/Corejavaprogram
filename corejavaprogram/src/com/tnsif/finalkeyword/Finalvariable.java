@@ -6,6 +6,8 @@ public class Finalvariable {
 	
 	final int y=4;
 	
+	String s="rash";
+	
 //	void change() {
 //		x=10;
 //	}
